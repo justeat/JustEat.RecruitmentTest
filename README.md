@@ -3,8 +3,8 @@ JUST EAT Developer Recruitment Test
 
 Thank you for taking the time to do our technical test. It consists of two parts:
 
-* A coding test
-* A few technical questions
+* [A coding test](#coding-test)
+* [A few technical questions](#technical-questions)
 
 ## Coding Test
 
@@ -109,4 +109,4 @@ Please answer the following questions in a markdown file called `Answers to tech
 
 
 Thanks for your time, we look forward to hearing from you!
-- The [Just-Eat dev team](http://github.com/justeat)
+- The [JUST EAT Tech team](http://github.com/justeat)
