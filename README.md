@@ -8,15 +8,15 @@ Thank you for taking the time to do our technical test. It consists of two parts
 
 ## Coding Test
 
-JUST EAT has a public API available at [http://api-interview.just-eat.com/](http://api-interview.just-eat.com/) that you can use to get restaurant information, including which restaurants deliver to what areas.
+JUST EAT has a public API available at [http://api-interview.just-eat.com/](http://api-interview.just-eat.com/) that you can use to get restaurant information, including restaurant details and delivery information.
 
-As an example, [http://api-interview.just-eat.com/retstaurants?q=se19](http://api-interview.just-eat.com/retstaurants?q=se19) returns a list of restaurants that deliver to an outcode, including some basic restaurant information (for outcode = se19).
+As an example, [http://api-interview.just-eat.com/retstaurants?q=se19](http://api-interview.just-eat.com/retstaurants?q=se19) returns a list of restaurants that deliver to SE19, including some basic restaurant information.
 
-The API requires you specify a set of valid request headers before it'll respond.
+The API requires you specify a set of valid request headers.
 
     Accept-Tenant: uk
     Accept-Language: en-GB
-    Accept-Charset: utf-8
+    Content-Type: application/json
     Authorization: Basic VGVjaFRlc3RBUEk6dXNlcjI=
     Host: [api-interview.just-eat.com](http://api-interview.just-eat.com/)
 
@@ -43,9 +43,9 @@ Think about the type of work you would like to do at JUST EAT and **choose an a
  
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met 
 
-- Please complete at least 1 story with an appropriate level of testing.
+- Please complete at least 1 story.
 - Your code should run and compile in one step.
-- Feel free to use whatever testing, mocking or stubbing frameworks you prefer, along with any other packages you like.
+- Feel free to use whatever frameworks / libraries / packages you like.
 - Your code should be of production quality.
 - In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Please send an email to [tech.recruitment@just-eat.com](mailto:tech.recruitment@just-eat.com) with your **valid Google email address** so we can give you the correct upload permissions.
 
@@ -60,8 +60,7 @@ So that **I know which restaurants are currently available**
 ##### Acceptance criteria
 
 - For the known outcode se19, results are returned
-- The Name and Cuisines of the restaurant are displayed,
-- If the application is a web application, then it should be single page application using Ajax
+- The Name and Cuisines of the restaurant are displayed
 
 
 #### Story 2
