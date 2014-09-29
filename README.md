@@ -100,6 +100,7 @@ So that **a helpful error message is displayed**
 
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
+* Which user stories did you complete?
 * What would you add to your solution if you had more time?
 * What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 * How would you track down a performance issue in an application? Have you ever had to do this?
@@ -107,5 +108,5 @@ Please answer the following questions in a markdown file called `Answers to tech
 * Please describe yourself using JSON.
 
 
-Thanks for your time, we look forward to hearing from you!
+####Thanks for your time, we look forward to hearing from you!
 - The [JUST EAT Tech team](http://github.com/justeat)
