@@ -104,7 +104,7 @@ Please answer the following questions in a markdown file called `Answers to tech
 * What would you add to your solution if you had more time?
 * What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 * How would you track down a performance issue in an application? Have you ever had to do this?
-* How would you improve the Just Eat public API found here?: http://www.just-eat.co.uk/webservice/webservices.asmx
+* How would you improve the JUST EAT APIs that you just used?
 * Please describe yourself using JSON.
 
 
