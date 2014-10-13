@@ -61,11 +61,11 @@ So that **I know which restaurants are currently available**
 
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
-* What would you add to your solution if you had more time?
-* What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
-* How would you track down a performance issue in an application? Have you ever had to do this?
-* How would you improve the JUST EAT APIs that you just used?
-* Please describe yourself using JSON.
+1. What would you add to your solution if you had more time?
+2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+3. How would you track down a performance issue in an application? Have you ever had to do this?
+4. How would you improve the JUST EAT APIs that you just used?
+5. Please describe yourself using JSON.
 
 
 ####Thanks for your time, we look forward to hearing from you!
