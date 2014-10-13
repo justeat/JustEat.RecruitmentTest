@@ -25,8 +25,6 @@ The task is to create an application that accepts an outcode as a parameter. The
 - Rating
 - Types of food for the restaurant
 
-The restaurants should be ordered from highest rating to lowest rating.
-
 ### Platform Choice
 
 You can create the application as either a command line application, web application or mobile application in any of the following platforms
