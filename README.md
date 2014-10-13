@@ -37,13 +37,11 @@ Think about the type of work you would like to do at JUST EAT and **choose an a
 
 ### Task requirements
 
- 
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met 
+Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met.  
 
 - Please complete the user story below.
 - Your code should compile and run in one step.
 - Feel free to use whatever frameworks / libraries / packages you like.
-- Your code should be of production quality.
 - In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Please send an email to [tech.recruitment@just-eat.com](mailto:tech.recruitment@just-eat.com) with your **valid Google email address** so we can give you the correct upload permissions.
 
 ### User Story
@@ -61,7 +59,7 @@ So that **I know which restaurants are currently available**
 
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
-1. What would you add to your solution if you had more time?
+1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 3. How would you track down a performance issue in an application? Have you ever had to do this?
 4. How would you improve the JUST EAT APIs that you just used?
