@@ -6,6 +6,13 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A coding test](#coding-test)
 * [A few technical questions](#technical-questions)
 
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the JUST EAT member of staff who assigned you the test.
+
+Please make this a **single** zip file named **{yourname}-{role-applied-for}.zip** containing:
+
+1. a single markdown file with the answers to the technical questions
+2. one folder containing the technical test
+
 ## Coding Test
 
 JUST EAT has a public API available at [http://api-interview.just-eat.com/](http://api-interview.just-eat.com/) that you can use to get restaurant information, including restaurant details and delivery information.
@@ -42,7 +49,6 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Please complete the user story below.
 - Your code should compile and run in one step.
 - Feel free to use whatever frameworks / libraries / packages you like.
-- In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Please send an email to [tech.recruitment@just-eat.com](mailto:tech.recruitment@just-eat.com) with your **valid Google email address** so we can give you the correct upload permissions.
 
 ### User Story
 
