@@ -63,8 +63,8 @@ I can **view the the restaurant logo along side restaurant information**
 So that **I know exactly which restaurants are currently available**
 
 As a **user running the application**  
-I can **use GPS to find my current postcode to retrive restaurant results**  
-So that **I dont need to type it in automatically**
+I can **use GPS to find my current postcode to retrieve restaurant results**  
+So that **I dont need to type it in**
 
 #### Acceptance criteria
 
