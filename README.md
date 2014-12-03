@@ -53,8 +53,18 @@ Feel free to spend as much or as little time on the exercise as you like as long
 ### User Story
 
 As a **user running the application**  
-I can **view the a list of restaurants in outcode se19**  
+I can **view the a list of restaurants in a user submitted outcode (ex. SE19) **  
 So that **I know which restaurants are currently available**
+
+If you have chosen a native mobile application platform please also include the following:
+
+As a **user running the application**  
+I can **view the the restaurant logo along side restaurant information**  
+So that **I know exactly which restaurants are currently available**
+
+As a **user running the application**  
+I can **use GPS to find my current postcode to retrive restaurant results**  
+So that **I dont need to type it in automatically**
 
 #### Acceptance criteria
 
