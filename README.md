@@ -77,7 +77,7 @@ Please answer the following questions in a markdown file called `Answers to tech
 
 1. How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
 2. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
-3. How would you track down a performance issue in an application? Have you ever had to do this?
+3. You receive an alert about an incident in production, it looks like it may be a performance issue. How would you track this down? Have you ever had to do this?
 4. How would you improve the JUST EAT APIs that you just used?
 5. Please describe yourself using JSON.
 
