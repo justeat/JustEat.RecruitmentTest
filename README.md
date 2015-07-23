@@ -80,7 +80,30 @@ Please answer the following questions in a markdown file called `Answers to tech
 3. How would you track down a performance issue in production? Have you ever had to do this?
 4. How would you improve the JUST EAT APIs that you just used?
 5. Please describe yourself using JSON.
+6. Assess yourself on the following fields of expertise on a scale from 1 to 10 (where 1 is no experience at all and 10 is extremely experienced):
 
+- design patterns
+- RESTful APIs
+- complex system design
+- SOLID principles
+- software lifecycle
+- data structures
+- algorithms
+- threading
+- OOP
+- D.I. and I.O.C
+- Functional Programming
+- app architecture design
+- memory management
+- debugging
+- unit testing
+- TDD
+- automation testing
+- performance testing
+- the language(s) used for the test task
+- closures/blocks/lambdas
+- C.I.
+- DCVS
 
 ####Thanks for your time, we look forward to hearing from you!
 - The [JUST EAT Tech team](http://github.com/justeat)
