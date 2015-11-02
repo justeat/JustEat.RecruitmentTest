@@ -69,7 +69,7 @@ So that **I dont need to type it in**
 #### Acceptance criteria
 
 - For the known outcode se19, results are returned
-- The Name, Cuisines and Rating of the restaurant are displayed
+- The Name, Cuisine Types and Rating of the restaurant are displayed
 
 # Technical questions
 
