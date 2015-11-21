@@ -15,16 +15,16 @@ Please make this a **single** zip file named **{yourname}-{role-applied-for}.zip
 
 ## Coding Test
 
-JUST EAT has a public API available at [http://api-interview.just-eat.com/](http://api-interview.just-eat.com/) that you can use to get restaurant information, including restaurant details and delivery information.
+JUST EAT has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you can use to get restaurant information, including restaurant details and delivery information.
 
-As an example, [http://api-interview.just-eat.com/restaurants?q=se19](http://api-interview.just-eat.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
+As an example, [https://public.je-apis.com/restaurants?q=se19](https://public.je-apis.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
 
 The API requires you specify a set of valid request headers.
 
     Accept-Tenant: uk
     Accept-Language: en-GB
     Authorization: Basic VGVjaFRlc3RBUEk6dXNlcjI=
-    Host: api-interview.just-eat.com
+    Host: public.je-apis.com
 
 The task is to create an application that accepts an outcode as a parameter. The application should then display the following information about each restaurant that delivers to that outcode.
 
