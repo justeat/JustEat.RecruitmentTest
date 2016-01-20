@@ -84,3 +84,5 @@ Please answer the following questions in a markdown file called `Answers to tech
 
 ####Thanks for your time, we look forward to hearing from you!
 - The [JUST EAT Tech team](http://github.com/justeat)
+
+**If you want to play with swagger http://public.je-apis.com/swagger-ui, calling of API doesn't work properly, please keep in mind and sorry!**
