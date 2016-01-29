@@ -38,7 +38,7 @@ You can create the application as either a command line application, web applica
 
 - .NET or Ruby for command line applications
 - .NET, PHP, Ruby or JavaScript for web applications
-- iOS, Andriod or Windows Mobile for mobile applications
+- iOS, Android or Windows Mobile for mobile applications
 
 Think about the type of work you would like to do at JUST EAT and **choose an appropriate application type and platform**.
 
