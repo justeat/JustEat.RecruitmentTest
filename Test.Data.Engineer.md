@@ -19,14 +19,14 @@ JUST EAT raises a variety of events but the core business events consist of `Ord
 
 The technical test consists of two tasks:
 
-* Write an app that can generate core business events in batches; then write those events to a JSON delimited file at specified intervals.
-* Stream the JSON delimited files that you generated in step one into program which will output a running count of each event type to the terminal every five seconds.
+* Write an app that can generate core business events in batches; then write those events to a line-delimited JSON file at specified intervals.
+* Stream the line-delimited JSON files that you generated in step one into program which will output a running total of each event type to the terminal every five seconds.
 
 1. Write an app that can generate core business events:
 
 	* Each order will produce two events namely (`OrderPlaced`, `OrderAccepted`) or (`OrderPlaced`, `OrderCancelled`).
 	* For every five orders, four orders will consist of `OrderPlaced` and `OrderAccepted` events and one order of `OrderPlaced` and `OrderCancelled` events.
-	* The batch of events within a given interval should be stored in a JSON delimited file named `orders-<timestamp>.json` ex. orders-2017-05-14-18-47-29-879763.json
+	* The batch of events within a given interval should be stored in a line-delimited JSON file named `orders-<timestamp>.json` ex. orders-2017-05-14-18-47-29-879763.json
 	* The app must take 4 arguments
 		* number-of-orders - Number of orders to generate which will each produce two events.
 		* batch-size - Batch size of events per file.
@@ -59,10 +59,10 @@ The technical test consists of two tasks:
 
 	* Monitor a given directory for new files.
 	* Process new files containing order events.
-	* Output a running count for each event type to the terminal.
+	* Output a running total for each event type to the terminal.
 	* Keep a 5 second delay between each terminal output.
 
-		ex. Terminal displaying a running count of each event type from the previous JSON snippet
+		ex. Terminal displaying a running total of each event type from the previous JSON snippet
 		```bash
 		"OrderCancelled": 1
 		"OrderAccepted": 4
