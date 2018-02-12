@@ -24,7 +24,7 @@ The API requires you specify a set of valid request headers:
 ```
 Accept-Tenant: uk
 Accept-Language: en-GB
-Authorization: Basic VGVjaFRlc3RBUEk6dXNlcjI=
+Authorization: [EMAIL YOUR RECRUITER]
 Host: public.je-apis.com
 ```
 
