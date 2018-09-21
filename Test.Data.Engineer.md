@@ -1,4 +1,4 @@
-JUST EAT Test Data Engineer Recruitment Test
+Just Eat Test Data Engineer Recruitment Test
 ==================================
 
 Thank you for taking the time to do our technical test. It consists of two parts:
@@ -6,16 +6,16 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A technical test](#technical-test)
 * [A few technical questions](#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the JUST EAT member of staff who assigned you the test.
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
 
-Please make this a **single** zip file named **{yourname}-{role-applied-for}.zip** containing:
+Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing:
 
 1. a single markdown file with the answers to the technical questions
 2. one folder containing the technical test
 
 ## Technical Test
 
-JUST EAT raises a variety of events but the core business events consist of `OrderPlaced`, `OrderAccepted` and `OrderCancelled`.
+Just Eat raises a variety of events but the core business events consist of `OrderPlaced`, `OrderAccepted` and `OrderCancelled`.
 
 The technical test consists of two tasks:
 
@@ -37,7 +37,7 @@ The technical test consists of two tasks:
 		```bash
 		generate-events --number-of-orders=1000000 --batch-size=5000 --interval=1 --output-directory=<local-dir>
 		```
-	* Example shows a snippet of ten events from the content of a generated file. Each event is on its own line separated by a linebreak.
+	* Example shows a snippet of ten events from the content of a generated file. Each event is on its own line separated by a line-break.
 
 		```json
 		{ "Type": "OrderPlaced", "Data": { "OrderId": "3cb0f939-9398-4d29-a28f-2a1a3a6ce3b2", "TimestampUtc": "2017-05-14T19:12:32Z" } }
@@ -53,7 +53,7 @@ The technical test consists of two tasks:
 		{ "Type": "OrderPlaced", "Data": { "OrderId": "8825cd95-f172-4132-9793-864b4dd725df", "TimestampUtc": "2017-05-14T19:12:37Z" } }
 		{ "Type": "OrderCancelled", "Data": {"OrderId": "8825cd95-f172-4132-9793-864b4dd725df", "TimestampUtc": "2017-05-14T19:12:37Z"} }
 		```
-	* Every `OrderPlaced` event must have a `OrderAccepted` or `OrderCancelled` event with the same OrderId.
+	* Every `OrderPlaced` event must have a `OrderAccepted` or `OrderCancelled` event with the same `OrderId`.
 
 2. Write a streaming app:
 
@@ -75,7 +75,7 @@ You can create the solution in any language or framework of your choice.
 
 ### Task requirements
 
-Feel free to spend as much or as little time on the exercise as you like, as long as the following requirements have been met: 
+Feel free to spend as much or as little time on the exercise as you like, as long as the following requirements have been met:
 
 - Please complete at least one of the tasks described above.
 - You should provide clear instructions on your test setup and how to execute your tests. The clarity and precision of these instructions - and the ease with which the interviewers can execute them - will be a key part of the assessment. Please create a README file detailing said instructions. Please also use this file for listing any additional comments or observations you might want to share about your submission.
@@ -90,5 +90,5 @@ Please answer the following questions in a markdown file called `Answers to tech
 4. How would you track down a performance issue in production? Have you ever had to do this?
 5. Please describe yourself using JSON.
 
-####Thanks for your time, we look forward to hearing from you!
-- The [JUST EAT Tech team](http://github.com/justeat)
+#### Thanks for your time, we look forward to hearing from you!
+- The [Just Eat Tech team](https://careers.just-eat.com/departments/technology)

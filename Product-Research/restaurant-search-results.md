@@ -13,7 +13,7 @@
             },
             "DefaultDisplayRank": 0,
             "SeoName": "barbicanexpresspizza",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/11245.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/11245.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -50,7 +50,7 @@
             },
             "DefaultDisplayRank": 1,
             "SeoName": "omysushi-ec1m",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42856.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42856.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -87,7 +87,7 @@
             },
             "DefaultDisplayRank": 2,
             "SeoName": "wok-away--noodle-express-finsbury",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52759.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52759.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -124,7 +124,7 @@
             },
             "DefaultDisplayRank": 3,
             "SeoName": "hello-sushi-n1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52391.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52391.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -161,7 +161,7 @@
             },
             "DefaultDisplayRank": 4,
             "SeoName": "oriental-house-bethnal-green",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52229.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52229.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -198,7 +198,7 @@
             },
             "DefaultDisplayRank": 5,
             "SeoName": "magic-wok-original-new-islington",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52512.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52512.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -235,7 +235,7 @@
             },
             "DefaultDisplayRank": 6,
             "SeoName": "cafe-la-maison-aldgate",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52683.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/52683.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -272,7 +272,7 @@
             },
             "DefaultDisplayRank": 7,
             "SeoName": "kenza-ec2m",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25162.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25162.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -309,7 +309,7 @@
             },
             "DefaultDisplayRank": 8,
             "SeoName": "pronto-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47857.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47857.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -346,7 +346,7 @@
             },
             "DefaultDisplayRank": 9,
             "SeoName": "chamisse-wc1x",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20603.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20603.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -383,7 +383,7 @@
             },
             "DefaultDisplayRank": 10,
             "SeoName": "royalkitchen-ec3n",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32192.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/32192.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -420,7 +420,7 @@
             },
             "DefaultDisplayRank": 11,
             "SeoName": "oishi-sushi-islington",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51123.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51123.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -457,7 +457,7 @@
             },
             "DefaultDisplayRank": 12,
             "SeoName": "kitchendhanya-n1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34992.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/34992.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -494,7 +494,7 @@
             },
             "DefaultDisplayRank": 13,
             "SeoName": "bestamerican",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/776.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/776.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -531,7 +531,7 @@
             },
             "DefaultDisplayRank": 14,
             "SeoName": "perfect-fried-chiken-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/12171.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/12171.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -568,7 +568,7 @@
             },
             "DefaultDisplayRank": 15,
             "SeoName": "kenningtontandoori-se11",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39247.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/39247.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -605,7 +605,7 @@
             },
             "DefaultDisplayRank": 16,
             "SeoName": "aftertastesw6",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19789.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19789.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -638,7 +638,7 @@
             },
             "DefaultDisplayRank": 17,
             "SeoName": "takariwc2b",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/13047.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/13047.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -675,7 +675,7 @@
             },
             "DefaultDisplayRank": 18,
             "SeoName": "thesushichefse11",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19798.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/19798.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -712,7 +712,7 @@
             },
             "DefaultDisplayRank": 19,
             "SeoName": "nahasushi-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41413.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41413.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -749,7 +749,7 @@
             },
             "DefaultDisplayRank": 20,
             "SeoName": "YouMeSushiwc1x",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18130.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/18130.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -786,7 +786,7 @@
             },
             "DefaultDisplayRank": 21,
             "SeoName": "hiba-lebanese-southwark",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5569.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5569.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -819,7 +819,7 @@
             },
             "DefaultDisplayRank": 22,
             "SeoName": "forno-pizza-lambeth",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5377.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5377.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -856,7 +856,7 @@
             },
             "DefaultDisplayRank": 23,
             "SeoName": "kebabland-n1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/777.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/777.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -893,7 +893,7 @@
             },
             "DefaultDisplayRank": 24,
             "SeoName": "papajohns-ec1m",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27687.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27687.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -926,7 +926,7 @@
             },
             "DefaultDisplayRank": 25,
             "SeoName": "adiva",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/8598.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/8598.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -963,7 +963,7 @@
             },
             "DefaultDisplayRank": 26,
             "SeoName": "nedsnoodlebarse1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1257.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1257.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1000,7 +1000,7 @@
             },
             "DefaultDisplayRank": 27,
             "SeoName": "topspizza-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22548.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/22548.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1033,7 +1033,7 @@
             },
             "DefaultDisplayRank": 28,
             "SeoName": "yummy-sushi-aldgate",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51392.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51392.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1070,7 +1070,7 @@
             },
             "DefaultDisplayRank": 29,
             "SeoName": "pizza2go",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/525.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/525.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1107,7 +1107,7 @@
             },
             "DefaultDisplayRank": 30,
             "SeoName": "shanghai-express--abacus-bethnal-green",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50185.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/50185.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -1144,7 +1144,7 @@
             },
             "DefaultDisplayRank": 31,
             "SeoName": "jus-jerk-london",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51352.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51352.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -1181,7 +1181,7 @@
             },
             "DefaultDisplayRank": 32,
             "SeoName": "masagosushi-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45540.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45540.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1218,7 +1218,7 @@
             },
             "DefaultDisplayRank": 33,
             "SeoName": "Azkaturkishmeze",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/15223.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/15223.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1255,7 +1255,7 @@
             },
             "DefaultDisplayRank": 34,
             "SeoName": "lebanesegrill-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/33291.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/33291.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1292,7 +1292,7 @@
             },
             "DefaultDisplayRank": 35,
             "SeoName": "uswaypizza-e2",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21969.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21969.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1329,7 +1329,7 @@
             },
             "DefaultDisplayRank": 36,
             "SeoName": "orientalgarden-se11",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21278.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/21278.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1362,7 +1362,7 @@
             },
             "DefaultDisplayRank": 37,
             "SeoName": "pepsperiperi-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25400.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/25400.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -1399,7 +1399,7 @@
             },
             "DefaultDisplayRank": 38,
             "SeoName": "yakitori-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47815.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47815.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1436,7 +1436,7 @@
             },
             "DefaultDisplayRank": 39,
             "SeoName": "handmadesushi-nw1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23573.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/23573.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1473,7 +1473,7 @@
             },
             "DefaultDisplayRank": 40,
             "SeoName": "cafedonquixote-wc2b",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41731.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41731.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -1506,7 +1506,7 @@
             },
             "DefaultDisplayRank": 41,
             "SeoName": "flying-fish-sushi-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20670.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20670.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1543,7 +1543,7 @@
             },
             "DefaultDisplayRank": 42,
             "SeoName": "poppyhana-se16",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20694.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/20694.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -1580,7 +1580,7 @@
             },
             "DefaultDisplayRank": 43,
             "SeoName": "ninjasushi-e8",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41764.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41764.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1617,7 +1617,7 @@
             },
             "DefaultDisplayRank": 44,
             "SeoName": "limetree-e8",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31691.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/31691.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1654,7 +1654,7 @@
             },
             "DefaultDisplayRank": 45,
             "SeoName": "papajohnshoxton",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1254.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/1254.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1691,7 +1691,7 @@
             },
             "DefaultDisplayRank": 46,
             "SeoName": "hoian-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37471.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37471.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -1724,7 +1724,7 @@
             },
             "DefaultDisplayRank": 47,
             "SeoName": "mayvaorientalcuisine",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14419.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/14419.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1757,7 +1757,7 @@
             },
             "DefaultDisplayRank": 48,
             "SeoName": "eliteperiperi-se16",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38540.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38540.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1794,7 +1794,7 @@
             },
             "DefaultDisplayRank": 49,
             "SeoName": "shikara-w1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2067.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/2067.gif",
             "IsCollection": false,
             "IsDelivery": true,
             "Cuisines": [
@@ -1827,7 +1827,7 @@
             },
             "DefaultDisplayRank": 50,
             "SeoName": "wrap-it-up-wc2r",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28143.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/28143.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -1860,7 +1860,7 @@
             },
             "DefaultDisplayRank": 51,
             "SeoName": "jasmine-garden-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48080.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48080.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1897,7 +1897,7 @@
             },
             "DefaultDisplayRank": 52,
             "SeoName": "citypizza",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/206.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/206.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1934,7 +1934,7 @@
             },
             "DefaultDisplayRank": 53,
             "SeoName": "currycapitale1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17015.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/17015.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -1967,7 +1967,7 @@
             },
             "DefaultDisplayRank": 54,
             "SeoName": "noura-sw1w",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44831.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44831.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2004,7 +2004,7 @@
             },
             "DefaultDisplayRank": 55,
             "SeoName": "gochisou-w1b",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42727.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42727.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2041,7 +2041,7 @@
             },
             "DefaultDisplayRank": 56,
             "SeoName": "swiftkebabhouse-e2",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38298.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38298.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2074,7 +2074,7 @@
             },
             "DefaultDisplayRank": 57,
             "SeoName": "home-made-sushi-wc2h",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36885.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/36885.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2111,7 +2111,7 @@
             },
             "DefaultDisplayRank": 58,
             "SeoName": "pizzapizza",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/103.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/103.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2148,7 +2148,7 @@
             },
             "DefaultDisplayRank": 59,
             "SeoName": "pizzagogose16",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/530.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/530.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2185,7 +2185,7 @@
             },
             "DefaultDisplayRank": 60,
             "SeoName": "aldwychcafe-wc2b",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37744.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/37744.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2222,7 +2222,7 @@
             },
             "DefaultDisplayRank": 61,
             "SeoName": "Bonappetit-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35730.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/35730.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2255,7 +2255,7 @@
             },
             "DefaultDisplayRank": 62,
             "SeoName": "red-planet-pizza-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48081.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/48081.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2292,7 +2292,7 @@
             },
             "DefaultDisplayRank": 63,
             "SeoName": "h-chickenandgrill-se1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42316.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42316.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2329,7 +2329,7 @@
             },
             "DefaultDisplayRank": 64,
             "SeoName": "sizzling-bombay",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5943.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/5943.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2362,7 +2362,7 @@
             },
             "DefaultDisplayRank": 65,
             "SeoName": "mas-q-menos-city-london",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51424.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51424.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2399,7 +2399,7 @@
             },
             "DefaultDisplayRank": 66,
             "SeoName": "pizza-hotline",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/3861.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/3861.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2436,7 +2436,7 @@
             },
             "DefaultDisplayRank": 67,
             "SeoName": "nanis-w1w",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44674.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44674.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2473,7 +2473,7 @@
             },
             "DefaultDisplayRank": 68,
             "SeoName": "barbicanexpress",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/11054.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/11054.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2506,7 +2506,7 @@
             },
             "DefaultDisplayRank": 69,
             "SeoName": "mylunchbox-ec3n",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42742.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42742.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2543,7 +2543,7 @@
             },
             "DefaultDisplayRank": 70,
             "SeoName": "runners-pizza-southwark",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51042.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/51042.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2580,7 +2580,7 @@
             },
             "DefaultDisplayRank": 71,
             "SeoName": "cafemode-wc2h",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38512.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/38512.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2617,7 +2617,7 @@
             },
             "DefaultDisplayRank": 72,
             "SeoName": "tarosushi-w1f",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41785.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/41785.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2654,7 +2654,7 @@
             },
             "DefaultDisplayRank": 73,
             "SeoName": "motown-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47398.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47398.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2691,7 +2691,7 @@
             },
             "DefaultDisplayRank": 74,
             "SeoName": "sajjadgrills-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45252.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45252.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2728,7 +2728,7 @@
             },
             "DefaultDisplayRank": 75,
             "SeoName": "piadinapronto-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45544.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/45544.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2765,7 +2765,7 @@
             },
             "DefaultDisplayRank": 76,
             "SeoName": "damascubite-e1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/46888.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/46888.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2802,7 +2802,7 @@
             },
             "DefaultDisplayRank": 77,
             "SeoName": "govindas-w1d",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47108.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47108.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2839,7 +2839,7 @@
             },
             "DefaultDisplayRank": 78,
             "SeoName": "lapolenteria-w1d",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44293.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/44293.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2872,7 +2872,7 @@
             },
             "DefaultDisplayRank": 79,
             "SeoName": "hoxtonpizzanchicken-n1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27765.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/27765.gif",
             "IsCollection": true,
             "IsDelivery": true,
             "Cuisines": [
@@ -2905,7 +2905,7 @@
             },
             "DefaultDisplayRank": 80,
             "SeoName": "thebellhouse-nw1",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42679.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/42679.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [
@@ -2942,7 +2942,7 @@
             },
             "DefaultDisplayRank": 81,
             "SeoName": "motown-e2",
-            "LogoUrl": "http://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47400.gif",
+            "LogoUrl": "https://d30v2pzvrfyzpo.cloudfront.net/uk/images/restaurants/47400.gif",
             "IsCollection": true,
             "IsDelivery": false,
             "Cuisines": [

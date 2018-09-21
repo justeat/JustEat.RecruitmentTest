@@ -1,4 +1,4 @@
-JUST EAT Test DevOps Engineer Recruitment Test
+Just Eat Test DevOps Engineer Recruitment Test
 ==================================
 
 Thank you for taking the time to do our technical test. It consists of two parts:
@@ -6,9 +6,9 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A technical test](#technical-test)
 * [A few technical questions](#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the JUST EAT member of staff who assigned you the test.
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
 
-Please make this a **single** zip file named **{yourname}-{role-applied-for}.zip** containing:
+Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing:
 
 1. A single markdown file with the answers to the technical questions
 2. One folder containing the technical test
@@ -31,11 +31,10 @@ Please make this a **single** zip file named **{yourname}-{role-applied-for}.zip
 
 ### Bonus Points
 
-* If you can provision jenkins agents to be created on demand.
+* If you can provision Jenkins agents to be created on demand.
 * If you can document all aspects of your code, in the README and within the code itself.
 * If you can generate the self signed cert/key.
 * If you can make this run all in one playbook.
-
 
 # Technical questions
 
@@ -47,4 +46,4 @@ Please answer the following questions in a markdown file called `Answers to tech
 4. Please describe yourself using JSON.
 
 #### Thanks for your time, we look forward to hearing from you!
-- The [JUST EAT Tech team](http://github.com/justeat)
+- The [Just Eat Tech team](https://careers.just-eat.com/departments/technology)
