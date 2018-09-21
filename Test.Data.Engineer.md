@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Technical Test
 
-Just Eat raises a variety of events but the core business events consist of `OrderPlaced`, `OrderAccepted` and `OrderCancelled`.
+Just Eat raises a variety of events but the core business ones consist of `OrderPlaced`, `OrderAccepted` and `OrderCancelled`.
 
 The technical test consists of two tasks:
 
