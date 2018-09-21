@@ -1,4 +1,4 @@
-JUST EAT Service Operations Engineer Recruitment Test
+Just Eat Service Operations Engineer Recruitment Test
 ==================================
 
 Thank you for taking the time to do our technical test. It consists of two parts:
@@ -6,18 +6,18 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A coding test](#coding-test)
 * [A few technical questions](#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the JUST EAT member of staff who assigned you the test.
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
 
-Please make this a **single** zip file named **{yourname}-{role-applied-for}.zip** containing:
+Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing:
 
 1. a single markdown file with the answers to the technical questions
 2. one folder containing the technical test
 
 ## Coding Test
 
-As a SOC Engineer you'll be working with APIs (Such as AWS's EC2 API). This test is designed to give you the opportunity to show your ability to query an API using languages that are commonly used during operations at JUST EAT.  
+As a SOC Engineer you'll be working with APIs (Such as AWS's EC2 API). This test is designed to give you the opportunity to show your ability to query an API using languages that are commonly used during operations at Just Eat.  
 
-JUST EAT has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you can use to get restaurant information, including restaurant details and delivery information.
+Just Eat has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you can use to get restaurant information, including restaurant details and delivery information.
 
 As an example, [https://public.je-apis.com/restaurants?q=se19](https://public.je-apis.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
 
@@ -73,9 +73,9 @@ Please answer the following questions in a markdown file called `Answers to tech
 2. Why did you choose the language you used for the coding test?
 3. What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
 4. How would you track down a performance issue in production? Have you ever had to do this?
-5. How would you improve the JUST EAT APIs that you just used?
+5. How would you improve the Just Eat APIs that you just used?
 6. Please describe yourself using JSON.
 
 
-####Thanks for your time, we look forward to hearing from you!
-- The [JUST EAT Tech team](http://github.com/justeat)
+#### Thanks for your time, we look forward to hearing from you!
+- The [Just Eat Tech team](https://careers.just-eat.com/departments/technology)
