@@ -6,7 +6,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A coding test](#coding-test)
 * [A few questions](#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared **Google Drive** folder. In order to obtain the URL for this folder please supply your **Gmail** or **Google-based email address** to either your agent or the Just Eat member of staff who assigned you the test.
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared **Google Drive** folder. In order to obtain the URL for this folder, please supply your **Gmail** or **Google-based email address** to either your agent or the Just Eat member of staff who assigned you the test.
 
 Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing:
 
