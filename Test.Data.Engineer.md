@@ -6,7 +6,7 @@ Thank you for taking the time to do our technical test. It consists of two parts
 * [A technical test](#technical-test)
 * [A few technical questions](#technical-questions)
 
-In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
+In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder, please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
 
 Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing:
 
@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Technical Test
 
-Just Eat raises a variety of events but the core business events consist of `OrderPlaced`, `OrderAccepted` and `OrderCancelled`.
+Just Eat raises a variety of events but the core business ones consist of `OrderPlaced`, `OrderAccepted` and `OrderCancelled`.
 
 The technical test consists of two tasks:
 
