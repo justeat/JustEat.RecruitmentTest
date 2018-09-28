@@ -19,7 +19,7 @@ Just Eat has a public API available at [https://public.je-apis.com/](https://pub
 
 As an example, [https://public.je-apis.com/restaurants?q=se19](https://public.je-apis.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
 
-The API requires you specify a set of valid request headers:
+The API requires you specify a set of valid HTTP request headers, as shown below. An API key will be provided to you by a member of our recruitment team.
 
 ```
 Accept-Tenant: uk
