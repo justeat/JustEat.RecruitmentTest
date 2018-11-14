@@ -21,7 +21,7 @@ The Technical test consists of two tasks:
   1. Write the step definitions for the below scenario.
   1. Add two more scenarios, with corresponding step definitions, which you feel would enhance the test coverage of the site.
 
-_If you are based internationally, you may use a more local website to your current location instead, for example [www.menulog.com.au](https://www.menulog.com.au/) in Australia._
+_If you are based internationally, you may have to use a more local website to your current location instead of the UK website due to IP restrictions, for example [www.menulog.com.au](https://www.menulog.com.au/) in Australia or [www.just-eat.es](https://www.just-eat.es/) in Spain._
 
 ### Scenario to Automate
 
@@ -30,6 +30,7 @@ Feature: Use the website to find restaurants
   So that I can order food
   As a hungry customer
   I want to be able to find restaurants in my area
+
 Scenario: Search for restaurants in an area
   Given I want food in "AR51 1AA"
   When I search for restaurants
@@ -38,7 +39,7 @@ Scenario: Search for restaurants in an area
 
 ### Platform Choice
 
-You can create step definitions using any language of framework you are experienced with.
+You can create step definitions using any language or framework you are experienced with.
 
 ### Task requirements
 
