@@ -18,7 +18,7 @@ Just Eat's consumer-facing website in the UK is available at [www.just-eat.co.uk
 
 The Technical test consists of two tasks:
 
-  1. Write the step definitions for the below scenario.
+  1. Write the step definitions for the scenario below.
   1. Add two more scenarios, with corresponding step definitions, which you feel would enhance the test coverage of the site.
 
 _If you are based internationally, you may have to use a more local website to your current location instead of the UK website due to IP restrictions, for example [www.menulog.com.au](https://www.menulog.com.au/) in Australia or [www.just-eat.es](https://www.just-eat.es/) in Spain._
