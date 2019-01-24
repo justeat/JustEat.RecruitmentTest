@@ -6,7 +6,7 @@ Thank you for taking the time to do our technical test.
 It consists of two parts:
 
 * [A technical test](#technical-test)
-* [A few technical questions](#technical-questions)
+* [A few feedback questions](#feedback-questions)
 
 In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. In order to obtain the URL for this folder, please supply your Gmail or Google-based email address to either your agent or the Just Eat member of staff who assigned you the test.
 
@@ -79,9 +79,9 @@ The technical test is to write an app that can generate events.
 
 You can create the solution in any language or framework of your choice.
 
-# Technical Questions
+# Feedback Questions
 
-Feel free to spend as much or as little time on the exercise as you like. We would really like you to show us how you code. We are looking for a good demonstration of SOLID principals, but above all, that it is functional, readable and easy to follow and review.
+Feel free to spend as much or as little time on the exercise as you like. We would really like you to show us how you code. We are looking for a good demonstration of best practice, but above all, that it is functional, readable and easy to follow and review.
 
 Please create a README.md file in the root directory.
 
