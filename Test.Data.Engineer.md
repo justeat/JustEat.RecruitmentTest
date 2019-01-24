@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 ## Technical Test
 
 ### Technical Introduction
-Just Eat raises hundreds of different events. This task involves a simplification of the following 3 events which are part of the order processing workflow:
+Just Eat raises hundreds of different event types. This task involves a simplification of the following 3 event types which are part of the order processing workflow:
 - `OrderPlaced` is raised when a customer places an order
 - `OrderDelivered` is raised when the customer receives their food
 - `OrderCancelled` is raised when the customer manually cancels or the restaurant hasn't got the resources to complete the order
