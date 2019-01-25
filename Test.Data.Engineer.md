@@ -77,7 +77,7 @@ The technical test is to write an app that can generate events.
 
 ### Platform Choice
 
-You can create the solution in any language or framework of your choice.
+You can create the solution in any language or framework of your choice. Please don't use a language that you're unfamiliar with. We want to see you in your element!
 
 # Feedback Questions
 
