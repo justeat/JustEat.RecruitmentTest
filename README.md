@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Coding Test
 
-Just Eat has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you can use to get restaurant information, including restaurant details and delivery information.
+Just Eat has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you will use to get restaurant information, including restaurant details and delivery information.
 
 As an example, [https://public.je-apis.com/restaurants?q=se19](https://public.je-apis.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
 
@@ -28,7 +28,7 @@ Authorization: [EMAIL YOUR RECRUITER]
 Host: public.je-apis.com
 ```
 
-The task is to create an application that accepts an outcode as a parameter. The application should then display the following information about each restaurant that delivers to that outcode:
+The task is to create an application that accepts an outcode as a parameter. The application should then display the following information about each restaurant that delivers to that outcode by querying our API:
 
 - Name
 - Rating
