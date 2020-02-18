@@ -30,7 +30,7 @@ The UI Automated Test consists of two tasks:
 
 #### Scenario to Automate
 
-```
+```gherkin
 Feature: Use the website to find restaurants
   So that I can order food
   As a hungry customer
@@ -50,60 +50,83 @@ You can create step definitions using any language or framework you are experien
 
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met:
 
-  * Please complete the two tasks described above.
-  * You should provide clear instructions on your test setup and how to execute your tests. The clarity and precision of these instructions - and the ease with which the interviewers can execute them - will be a key part of the assessment. Please create a README file detailing said instructions. Please also use this file for listing any additional comments or observations you might want to share about your submission.
+- Please complete the two tasks described above.
+- You should provide clear instructions on your test setup and how to execute your tests. The clarity and precision of these instructions - and the ease with which the interviewers can execute them - will be a key part of the assessment. Please create a README file detailing said instructions. Please also use this file for listing any additional comments or observations you might want to share about your submission.
 
 ### 2. API Automated Test
 
-Just Eat has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you will use to get restaurant information, including restaurant details and delivery information.
+Just Eat has a public API available at <https://uk.api.just-eat.io/> that you will use to get restaurant information.
 
-As an example, [https://public.je-apis.com/restaurants?q=se19](https://public.je-apis.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
+#### Prerequisites
 
-The API requires you specify a set of valid HTTP request headers, as shown below. An API key will be provided to you by a member of our recruitment team.
+- URL: <https://uk.api.just-eat.io>
+- Endpoint: `/restaurants/bypostcode/{postcode}`
+- Method: `GET`
 
-```
-Accept-Tenant: uk
-Accept-Language: en-GB
-Authorization: [EMAIL YOUR RECRUITER]
-Host: public.je-apis.com
-```
+#### Example
+
+`GET` <https://uk.api.just-eat.io/restaurants/bypostcode/ar511aa> returns complex restaurants-related data for postcode `AR51 1AA`
 
 #### Tasks
-The API Automated Test consists of a single task:
 
-1. Write the API tests for the scenarios below. Perform any assertions you deem necessary.
+1. Verify `Restaurants[n].Address` sub-object of each restaurant object in response. It should reflect the following schema:
 
-#### Scenario to Automate
+```json
+{
+  "properties": {
+    "City": {
+      "type": "string",
+      "description": "City name"
+    },
+    "FirstLine": {
+      "type": "string",
+      "description": "First line of address"
+    },
+    "Postcode": {
+      "type": "string"
+    },
+    "Latitude": {
+      "type": "number",
+      "format": "decimal"
+    },
+    "Longitude": {
+      "type": "number",
+      "format": "decimal"
+    },
+  }
+}
 ```
-Feature: Use the API to find restaurants
-  So that I can order food
-  As a hungry customer
-  I want to be able to find restaurants in my area
-  
-Scenario: Search for restaurants in an area
-  Given I want food in "AR51 1AA"
-  When I search for restaurants
-  Then I should see some restaurants in "AR51 1AA"
-```
+
+2. Verify the following functional requirements regarding restaurants data in response:
+
+   - `A restaurant with more than 1 rating should have a star rating greater than 0`
+   - `A restaurant with no ratings should have a star rating of 0`
+   - `A restaurant should have a valid Url (returns 200)`
+
+1. Design 3 more requirements which you think are missing most and implement verification tests.
 
 #### Platform Choice
-You can create the tests using any language or framework you are experienced with. Please write them programmatially as a script produced by a tool such as Postman or SoapUI is not sufficient.
+
+You can create the tests using any language or framework you are experienced with.
+Please write them programmatically as a script produced by a tool such as Postman or SoapUI is not sufficient.
 
 #### Task requirements
+
 Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met:
 
-  * Please complete the two tasks described above.
+- Please complete the tasks described above.
 
 ## Technical questions
 
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
-  1. How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time on the technical test then use this as an opportunity to explain what you would add.
-  1. What do you think is the most interesting trend in test automation?
-  1. How would you implement test automation in a legacy application? Have you ever had to do this?
-  1. How would you improve the customer experience of the Just Eat website?
-  1. Please describe yourself using JSON.
-
+1. How long did you spend on the technical test?
+1. What would you add to your solution if you had more time?
+1. If you didn't spend much time on the technical test then use this as an opportunity to explain what you would add.
+1. What do you think is the most interesting trend in test automation?
+1. How would you implement test automation in a legacy application? Have you ever had to do this?
+1. How would you improve the customer experience of the Just Eat website?
 
 #### Thanks for your time, we look forward to hearing from you!
+
 - The [Just Eat Tech](https://careers.just-eat.com/departments/technology) team
