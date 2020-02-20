@@ -101,7 +101,7 @@ Just Eat has a public API available at <https://uk.api.just-eat.io/> that you wi
 
    - `A restaurant with more than 1 rating should have a star rating greater than 0`
    - `A restaurant with no ratings should have a star rating of 0`
-   - `A restaurant should have a valid Url (returns 200)`
+   - `A restaurant should have a valid URL (returns 200)`
 
 1. Design 3 more requirements which you think are missing most and implement verification tests.
 
