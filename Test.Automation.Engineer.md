@@ -108,7 +108,7 @@ Just Eat has a public API available at <https://uk.api.just-eat.io/> that you wi
 #### Platform Choice
 
 You can create the tests using any language or framework you are experienced with.
-Please write them programmatically as a script produced by a tool such as Postman or SoapUI is not sufficient.
+Please write them programmatically; a script produced by a tool such as Postman or SoapUI is not sufficient.
 
 #### Task requirements
 
