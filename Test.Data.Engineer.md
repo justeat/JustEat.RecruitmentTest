@@ -24,15 +24,15 @@ Just Eat raises hundreds of different event types. This task involves a simplifi
 
 The event schema is as follows:
 
-    ```json
-    {
-        "Type": "OrderPlaced",
-        "Data": {
-            "OrderId": "3cb0f939-9398-4d29-a28f-2a1a3a6ce3b2",
-            "TimestampUtc": "2017-05-14T19:12:32Z"
-        }
+```json
+{
+    "Type": "OrderPlaced",
+    "Data": {
+        "OrderId": "3cb0f939-9398-4d29-a28f-2a1a3a6ce3b2",
+        "TimestampUtc": "2017-05-14T19:12:32Z"
     }
-    ```
+}
+```
 - `Type` is the event type.
 - `Data.OrderId` is a randomly generated uuid which uniquely identifies an order. A single order may have more than one event associated with it.
 - `Data.TimestampUtc` is the timestamp (iso format) at which the event occurred.
