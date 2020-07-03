@@ -15,18 +15,9 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Coding Test
 
-Just Eat has a public API available at [https://public.je-apis.com/](https://public.je-apis.com/) that you will use to get restaurant information, including restaurant details and delivery information.
+Just Eat has a public API available at [https://uk.api.just-eat.io/](https://uk.api.just-eat.io/) that you will use to get restaurant information, including restaurant details and delivery information.
 
-As an example, [https://public.je-apis.com/restaurants?q=se19](https://public.je-apis.com/restaurants?q=se19) returns a list of restaurants that deliver to the outcode SE19, including some basic restaurant information.
-
-The API requires you specify a set of valid HTTP request headers, as shown below. An API key will be provided to you by a member of our recruitment team.
-
-```
-Accept-Tenant: uk
-Accept-Language: en-GB
-Authorization: [EMAIL YOUR RECRUITER]
-Host: public.je-apis.com
-```
+As an example, [https://uk.api.just-eat.io/restaurants/bypostcode/ec4m](https://uk.api.just-eat.io/restaurants/bypostcode/ec4m) returns a list of restaurants that deliver to the outcode EC4M, including some basic restaurant information.
 
 The task is to create an application that accepts an outcode as a parameter. The application should then display the following information about each restaurant that delivers to that outcode by querying our API:
 
@@ -72,7 +63,7 @@ So that **I don't need to type it in**
 
 #### Acceptance criteria
 
-- For the known outcode `se19`, results are returned
+- For the known outcode `ec4m`, results are returned
 - The Name, Cuisine Types and Rating of the restaurant are displayed
 
 # Technical questions
