@@ -15,7 +15,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ## Coding Test
 
-Just Eat has a public API available at [https://uk.api.just-eat.io/](https://uk.api.just-eat.io/) that you will use to get restaurant information, including restaurant details and delivery information.
+Just Eat has a public API available at [https://uk.api.just-eat.io/](https://uk.api.just-eat.io/) that you will use to get restaurant information, including restaurant details and delivery information. We'd specifically like you to use the `SearchByPostcode` endpoint that is documented at [https://uk.api.just-eat.io/docs#operation/SearchByPostcode](https://uk.api.just-eat.io/docs#operation/SearchByPostcode).
 
 As an example, [https://uk.api.just-eat.io/restaurants/bypostcode/ec4m](https://uk.api.just-eat.io/restaurants/bypostcode/ec4m) returns a list of restaurants that deliver to the outcode EC4M, including some basic restaurant information.
 
