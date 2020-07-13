@@ -12,6 +12,8 @@ In order to avoid bounced emails we would like you to submit your results by upl
 
 Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing your solution to the technical test.
 
+As a guide, it is advisable that you spend between 30 and 90 minutes on the code test.
+
 ## Technical Test
 
 ### Technical Introduction
