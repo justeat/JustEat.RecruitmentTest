@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-python3 -m file-splitter $@
+python3 -m file_splitter $@
