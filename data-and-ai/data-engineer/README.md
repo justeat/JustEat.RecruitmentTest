@@ -11,7 +11,7 @@ It consists of two parts:
 
 We would really like you to show off how you code. At Just Eat we value code that is functional, simple to read and review, demonstrates best practice.
 
-You can complete this assignment in Scala or Python. Sample projects with the arguments parsed are provided. If you would like to use a different method for argument parsing this is fine.
+You can complete this assignment in Scala or Python, unless instructed otherwise. Sample projects with the arguments parsed are provided. If you would like to use a different method for argument parsing this is fine.
 
 You can spend as much or as little time as you like, most candiates spend between 90m - 180m. If you run out of time, leave us some notes about the specific improvements you would have made had you had more time!
 
