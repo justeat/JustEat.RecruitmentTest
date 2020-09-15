@@ -13,8 +13,7 @@ We would really like you to show off how you code. At Just Eat we value code tha
 
 You can complete this assignment in Scala or Python. Sample projects with the arguments parsed are provided. If you would like to use a different method for argument parsing this is fine.
 
-We advise candidates to spend no longer than 90m on this test. If you run out of time, leave us some notes about the specific improvements you would have made had you had more time!
-
+You can spend as much or as little time as you like, most candiates spend between 90m - 180m. If you run out of time, leave us some notes about the specific improvements you would have made had you had more time!
 
 ### Judging criteria
 
