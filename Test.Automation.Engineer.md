@@ -19,9 +19,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ### UI Automated Test
 
-Just Eat's consumer-facing website in the UK is available at [www.just-eat.co.uk](https://www.just-eat.co.uk/), which you can use to find takeaway restaurants in a postcode area.
-
-_If you are based internationally, you may have to use a more local website to your current location instead of the UK website due to IP restrictions, for example [www.menulog.com.au](https://www.menulog.com.au/) in Australia or [www.just-eat.es](https://www.just-eat.es/) in Spain._
+Just Eat's consumer-facing test website in the UK is available at [uk-publicweb.staging-uk.je-labs.com](https://uk-publicweb.staging-uk.je-labs.com/), which you can use to find takeaway restaurants in a postcode area.
 
 #### Tasks
 
@@ -36,6 +34,7 @@ Feel free to use any programming language, libraries and frameworks you are expe
 
 #### Task requirements
 
+- IMPORTANT: Please refrain from stress testing or accidentally performing a DDoS attack as you are likely to get blocked by our security rules
 - Clear test setup and execution instructions are provided in the README.md file
 - All code changes are documented and structured as well-described Git commits
 
@@ -57,17 +56,17 @@ Scenario: Search for restaurants in an area
 
 ### API Automated Test
 
-Just Eat has a public API available at <https://uk.api.just-eat.io/> that you will use to get restaurant information.
+Just Eat has a public API available at <https://smartgateway.staging-uk.je-labs.com> that you will use to get restaurant information.
 
 #### Prerequisites
 
-- URL: <https://uk.api.just-eat.io>
+- URL: <https://smartgateway.staging-uk.je-labs.com>
 - Endpoint: `/restaurants/bypostcode/{postcode}`
 - Method: `GET`
 
 #### Example
 
-`GET` <https://uk.api.just-eat.io/restaurants/bypostcode/ar511aa> returns complex restaurants-related data for postcode `AR51 1AA`
+`GET` <https://smartgateway.staging-uk.je-labs.com/restaurants/bypostcode/ar511aa> returns complex restaurants-related data for postcode `AR51 1AA`
 
 #### Tasks
 
@@ -113,6 +112,7 @@ Feel free to use any programming language, libraries and frameworks you are expe
 
 #### Task requirements
 
+- IMPORTANT: Please refrain from stress testing or accidentally performing a DDoS attack as you are likely to get blocked by our security rules
 - A RESTful API test automation library/framework is implemented using any programming language from scratch
 - Clear test setup and execution instructions are provided in the README.md file
 - All code changes are documented and structured as well-described Git commits
