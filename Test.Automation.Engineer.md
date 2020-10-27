@@ -19,7 +19,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ### UI Automated Test
 
-Just Eat's consumer-facing test website in the UK is available at [uk-publicweb.staging-uk.je-labs.com](https://uk-publicweb.staging-uk.je-labs.com/), which you can use to find takeaway restaurants in a postcode area.
+Just Eat's consumer-facing test website in the UK is available at [https://uk-publicweb-incapsula-staging-uk.staging-uk.je-labs.com](https://uk-publicweb-incapsula-staging-uk.staging-uk.je-labs.com), which you can use to find takeaway restaurants in a postcode area.
 
 #### Tasks
 
