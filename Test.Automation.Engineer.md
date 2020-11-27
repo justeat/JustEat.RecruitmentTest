@@ -19,7 +19,7 @@ Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip`
 
 ### UI Automated Test
 
-Just Eat's consumer-facing test website in the UK is available at [https://uk-publicweb-incapsula-staging-uk.staging-uk.je-labs.com](https://uk-publicweb-incapsula-staging-uk.staging-uk.je-labs.com), which you can use to find takeaway restaurants in a postcode area.
+Just Eat's consumer-facing website in the UK is available at [www.just-eat.co.uk](https://www.just-eat.co.uk/), which you can use to find takeaway restaurants in a postcode area.
 
 #### Tasks
 
@@ -28,13 +28,14 @@ The UI Automated Test consists of two tasks:
   1. Write the step definitions for the scenario below.
   1. Add two more scenarios, with corresponding step definitions, which you feel would enhance the test coverage of the site.
 
+**NOTE:** Please refrain from stress testing or accidentally performing a DDoS attack as you are likely to get blocked by our security rules.
+
 #### Platform Choice
 
-Feel free to use any programming language, libraries and frameworks you are experienced with.
+Feel free to use any programming language, libraries and frameworks you are experienced with. If you choose Python then please contact the team as you will require a different endpoint to run your test against. 
 
 #### Task requirements
 
-- IMPORTANT: Please refrain from stress testing or accidentally performing a DDoS attack as you are likely to get blocked by our security rules
 - Clear test setup and execution instructions are provided in the README.md file
 - All code changes are documented and structured as well-described Git commits
 
@@ -56,17 +57,23 @@ Scenario: Search for restaurants in an area
 
 ### API Automated Test
 
-Just Eat has a public API available at <https://smartgateway.staging-uk.je-labs.com> that you will use to get restaurant information.
+Just Eat has a public API available at <https://uk.api.just-eat.io/> that you will use to get restaurant information.
 
 #### Prerequisites
 
-- URL: <https://smartgateway.staging-uk.je-labs.com>
+- URL: <https://uk.api.just-eat.io>
 - Endpoint: `/restaurants/bypostcode/{postcode}`
 - Method: `GET`
 
 #### Example
 
-`GET` <https://smartgateway.staging-uk.je-labs.com/restaurants/bypostcode/ar511aa> returns complex restaurants-related data for postcode `AR51 1AA`
+`GET` <https://uk.api.just-eat.io/restaurants/bypostcode/ar511aa> returns complex restaurants-related data for postcode `AR51 1AA`
+
+#### Platform Choice
+
+Feel free to use any programming language, libraries and frameworks you are experienced with. 
+
+**NOTE:** If you choose Python then please contact the team as you will require a different endpoint to run your test against. 
 
 #### Tasks
 
@@ -98,21 +105,18 @@ Just Eat has a public API available at <https://smartgateway.staging-uk.je-labs.
 }
 ```
 
-2. Verify the following functional requirements regarding restaurants data in response:
+2. Verify the following functional requirements making 1 call to the [restaurants endpoint](https://github.com/justeat/JustEat.RecruitmentTest/blob/master/Test.Automation.Engineer.md#prerequisites):
 
-- `A restaurant with more than 1 rating should have a star rating greater than 0`
-- `A restaurant with no ratings should have a star rating of 0`
-- `A restaurant should have a valid URL (returns 200)`
+- `Check all the restaurants with more than 1 rating should have a star rating greater than 0`
+- `Check all the restaurants with no ratings should have a star rating of 0`
+- `Check 1 restaurant should have a valid URL by checking for a returned HTTP status code of 200 OK`
 
 3. Design 3 more requirements which you think are missing most and implement verification tests.
 
-#### Platform Choice
-
-Feel free to use any programming language, libraries and frameworks you are experienced with.
+**NOTE:** If you call the restaurants endpoint repeatedly within a short period of time you will encounter DDoS protection and your IP address will be blocked. Please manage your API calls responsibly.
 
 #### Task requirements
 
-- IMPORTANT: Please refrain from stress testing or accidentally performing a DDoS attack as you are likely to get blocked by our security rules
 - A RESTful API test automation library/framework is implemented using any programming language from scratch
 - Clear test setup and execution instructions are provided in the README.md file
 - All code changes are documented and structured as well-described Git commits
