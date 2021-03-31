@@ -47,7 +47,7 @@ output-dir/large-data-part2.csv
 
 ## Top tips
 
-At Just Eat we value code that is functional, simple to read and review, demonstrates best practice.
+At Just Eat we value code that is functional, simple to read and review, and demonstrates best practice.
 
 You can complete this assignment in Scala or Python, unless instructed otherwise. 
 Sample projects with the arguments parsed are provided. 
