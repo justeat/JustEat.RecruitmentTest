@@ -47,7 +47,6 @@ output-dir/large-data-part2.csv
 
 ## Top tips
 
-We would really like you to show off how you code. 
 At Just Eat we value code that is functional, simple to read and review, demonstrates best practice.
 
 You can complete this assignment in Scala or Python, unless instructed otherwise. 
@@ -62,4 +61,3 @@ We judge based on the following things:
 * Testing of key parts 
 * Code maintainability, can it be extended
 * Code performance
-
