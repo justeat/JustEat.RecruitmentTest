@@ -7,7 +7,7 @@ The next stage of the interview process involves some live code pairing.
 To prepare for this, you have 2 options, pick which ever option you are most comfortable with:
 
 ### 1. Prepare only
-- Read and understand the [Problem Statement](TODO)
+- Read and understand the [Problem Statement](#problem-statement)
 - Set up your favourite IDE with the sample [scala](./scala) or [python](./python) code.
 - Make sure you know how the code works, it compiles and you know how to run it with different args
 - Think about how you plan on implementing a solution to the problem
