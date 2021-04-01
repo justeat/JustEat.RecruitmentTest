@@ -9,7 +9,7 @@ To prepare for this, you have 2 options, pick which ever option you are most com
 ### 1. Prepare only
 - Read and understand the [Problem Statement](#problem-statement)
 - Set up your favourite IDE with the sample [scala](./scala) or [python](./python) code.
-- Make sure you know how the code works, it compiles and you know how to run it with different args
+- Make sure you know how the code works, it compiles and you know how to run it with different arguments
 - Think about how you plan on implementing a solution to the problem
 
 In the code pairing session, we will start coding the solution 
