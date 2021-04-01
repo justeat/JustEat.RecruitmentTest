@@ -49,7 +49,7 @@ output-dir/large-data-part2.csv
 
 At Just Eat we value code that is functional, simple to read and review, and demonstrates best practice.
 
-You can complete this assignment in Scala or Python, unless instructed otherwise. 
+You should complete this assignment in Scala or Python, unless instructed otherwise. 
 Sample projects with the arguments parsed are provided. 
 If you would like to use a different method for argument parsing this is fine.
 
