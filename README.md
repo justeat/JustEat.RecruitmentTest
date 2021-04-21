@@ -29,8 +29,8 @@ The task is to create an application that accepts an outcode as a parameter. The
 
 You can create the application as either a command line application, web application or mobile application in any of the following platforms
 
-- .NET (Full Framework or Core), PHP, Ruby, Python or JavaScript for web applications
-- .NET (Full Framework or Core), Ruby or Python for command line applications
+- .NET, Python or JavaScript/TypeScript (can use Angular/React/Vue.js) for web applications.
+- .NET or Python for command line applications
 - iOS, Android or Windows Mobile for mobile applications
 
 Think about the type of work you would like to do at Just Eat and **choose an appropriate application type and platform**.
