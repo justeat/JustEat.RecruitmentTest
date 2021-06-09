@@ -10,12 +10,10 @@ In order to obtain the URL for this folder, please supply your Gmail or Google-b
 
 Please make this a **single** zip file named `{yourname}-{role-applied-for}.zip` containing:
 
-  1. A single markdown file with the answers to the technical questions
+  1. A single Markdown file with the answers to the technical questions
   1. A folder containing the technical test (please try not to include files like library dependencies)
 
-## Technical Test
-
-### Coding Test
+### Technical Test
 
 Just Eat has a public API available at https://uk.api.just-eat.io/ that you will use to get restaurant information.
 
@@ -26,12 +24,12 @@ The task is to write some code that accepts a postcode as a parameter and then r
 - Name
 - Rating
 
-The input and display can be on a web page or a terminal or console.
+The input and display can be on a web page or a terminal/console.
 
 ### The API Call
-- URL: https://uk.api.just-eat.io
-- Endpoint: /restaurants/bypostcode/{postcode}
-- Method: GET
+- URL: `https://uk.api.just-eat.io`
+- Endpoint: `/restaurants/bypostcode/{postcode}`
+- Method: `GET`
 
 #### Tasks
 
@@ -46,13 +44,13 @@ Feel free to use any programming language, libraries and frameworks you are expe
 
 #### Expectations
 
-- Please do not spend too much time on UI design. We would happily recieve a test which simply outputs a text-based list or restaurant names and ratings to a browser.
-- We do not require extensive user input and error handling. Just ensure your solution doesn't fall over if a customer were to type an invalid postcode in. 
-- A javascript and HTML file which we can run in our prefered web browser is an acceptable solution. 
+- Please do not spend too much time on UI design. We would happily recieve a test which simply outputs a text-based list or restaurant names and ratings in a browser.
+- We do not require extensive user input and error handling. Just ensure your solution doesn't fall over if a customer were to type in an empty postcode. 
+- A JavaScript  and HTML file which we can run in your preferred web browser is an acceptable solution. 
 
 ## Technical Questions
 
-Please answer the following questions and include them in a file uploaded with your technical test
+Please answer the following questions and include them in the Markdown file uploaded with your technical test
 
 1. How long did you spend on the technical test?
 2. What would you add to your solution if you had more time?
