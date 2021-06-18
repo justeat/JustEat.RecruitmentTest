@@ -29,7 +29,7 @@ The task is to create an application that accepts an outcode as a parameter. The
 
 You can create the application as either a command line application, web application or mobile application in any of the following platforms
 
-- .NET, Python or JavaScript/TypeScript (can use Angular/React/Vue.js) for web applications.
+- .NET, Python or JavaScript/TypeScript (can use Angular/React/Vue.js) for web applications. **Please note, due to CORS, calls directly from the browser will fail.**
 - .NET or Python for command line applications
 - iOS, Android or Windows Mobile for mobile applications
 
