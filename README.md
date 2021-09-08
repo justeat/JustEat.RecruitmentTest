@@ -61,7 +61,7 @@ And I only want to see **restaurants that are currently open**
 And I want to see **the restaurant logo alongside the restaurant information** 
 
 Given I am a **user running the application**
-When I click auto detect outcode it should **use GPS to find my current postcode to retrieve restaurant results**
+When I click "auto detect outcode" it should **use GPS to find my current postcode to retrieve restaurant results**
 Then I want to see a **list of restaurants**
 And I only want to see **restaurants that are currently open**
 And I want to see **the restaurant logo alongside the restaurant information**
