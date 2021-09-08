@@ -47,19 +47,24 @@ Feel free to spend as much or as little time on the exercise as you like as long
 
 ### User Story
 
-As a **user running the application**  
-I can **view a list of restaurants in a user submitted outcode (e.g. SE19)**  
-So that **I know which restaurants are currently available**
+Given I am a **user running the application**
+When I **submit an outcode (e.g. SE19)**
+Then I want to see a **list of restaurants**
+And I only want to see **restaurants that are currently open**
 
 If you have chosen a native mobile application platform please also include the following:
 
-As a **user running the application**  
-I can **view the restaurant logo alongside restaurant information**  
-So that **I know exactly which restaurants are currently available**
+Given I am a **user running the application**
+When I **submit an outcode (e.g. SE19)**
+Then I want to see a **list of restaurants**
+And I only want to see **restaurants that are currently open**
+And I want to see **the restaurant logo alongside the restaurant information** 
 
-As a **user running the application**  
-I can **use GPS to find my current postcode to retrieve restaurant results**  
-So that **I don't need to type it in**
+Given I am a **user running the application**
+When I click auto detect outcode it should **use GPS to find my current postcode to retrieve restaurant results**
+Then I want to see a **list of restaurants**
+And I only want to see **restaurants that are currently open**
+And I want to see **the restaurant logo alongside the restaurant information**
 
 #### Acceptance criteria
 
