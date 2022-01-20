@@ -82,4 +82,4 @@ Please answer the following questions in a markdown file called `Answers to tech
 
 
 #### Thanks for your time, we look forward to hearing from you!
-- The [Just Eat Tech team](https://careers.just-eat.com/departments/technology)
+- The [Just Eat Tech team](https://careers.justeattakeaway.com/global/en/c/tech-product-jobs)
