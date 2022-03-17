@@ -44,7 +44,7 @@ Feel free to use any programming language, libraries and frameworks you are expe
 
 #### Expectations
 
-- Please do not spend too much time on UI design. We would happily recieve a test which simply outputs a text-based list or restaurant names and ratings in a browser.
+- Please do not spend too much time on UI design. We would happily receive a test which simply outputs a text-based list or restaurant names and ratings in a browser.
 - We do not require extensive user input and error handling. Just ensure your solution doesn't fall over if a customer were to type in an empty postcode. 
 - A JavaScript and HTML file which we can run in your preferred web browser is an acceptable solution. 
 
